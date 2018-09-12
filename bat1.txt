@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 how are you dokhaa this side.
+=======
+hey hello how are you in batman branch
+manisha
+>>>>>>> batman
